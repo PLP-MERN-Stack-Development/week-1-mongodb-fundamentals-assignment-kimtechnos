@@ -39,6 +39,12 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 2. Add your `queries.js` file with all required MongoDB queries
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
+## MongoDB Compass Screenshot
+
+Here is a screenshot showing my MongoDB Compass with the `plp_bookstore` database and `books` collection:
+
+![MongoDB Compass Screenshot](mongoshcompass.png)
+
 
 ## Resources
 
